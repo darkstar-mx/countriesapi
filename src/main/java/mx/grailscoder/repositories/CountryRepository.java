@@ -13,7 +13,6 @@ import java.util.Map;
  * @author ArmandodeJesus
  * @email aj.montoya [ at ] outlook.com
  * @Date 10/30/2017
- * @Copyright Armando Montoya, 2017
  * All rights reserved
  */
 @Component
